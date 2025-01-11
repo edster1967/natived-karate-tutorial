@@ -1,0 +1,7 @@
+{
+  "name": "product name goes here",
+  "description": "A toy train with 3 carriages",
+  "price": "19.99",
+  "categoryId": 1,
+  "inStock": true
+}
